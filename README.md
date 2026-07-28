@@ -24,22 +24,25 @@ I enjoy building projects to learn new technologies and improve my programming s
 
 ## Currently Learning
 
-- JavaScript
+- JavaScript/TypeScript/React
+- Rust
 - Web Development
 - Data Structures & Algorithms
 - Computer Science fundamentals
 
 ## Featured Projects
 
-- 🤖 **multi-llm-cli** – Terminal application for interacting with multiple LLM providers.
-- 📊 **data-report-gen** – AI-powered automated data analysis and PDF reporting pipeline.
-- ⏰ **reminder-manager** – Cross-platform desktop reminder manager with native notifications.
+-  **multi-llm-cli** – Terminal application for interacting with multiple LLM providers.
+-  **data-report-gen** – AI-powered automated data analysis and PDF reporting pipeline.
+-  **reminder-manager** – Cross-platform desktop reminder manager with native notifications.
+-  **simple-ecommerce-store** - Fullstack ecommerce store project with Python/Flask backend and SQLite database (In the current date 07/28/2026 the project is paused because I'm learning react to make the frontend)
 
 ## Goals
 
 - Build useful open-source projects
 - Deepen my Computer Science knowledge
 - Become a software developer
+- Get a opportunity to work as a software developer
 
 ## Contact
 
