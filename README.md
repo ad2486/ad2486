@@ -18,6 +18,8 @@ I enjoy building projects to learn new technologies and improve my programming s
 
 - Python
 - JavaScript
+- Rust
+- SQLite
 - HTML & CSS
 - Git & GitHub
 - Linux 
@@ -26,7 +28,6 @@ I enjoy building projects to learn new technologies and improve my programming s
 
 - JavaScript/TypeScript/React
 - Rust
-- Web Development
 - Data Structures & Algorithms
 - Computer Science fundamentals
 
