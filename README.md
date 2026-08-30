@@ -9,6 +9,7 @@
 ![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-f0f0f0?logo=apple&logoColor=black&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Cloud-Oracle%20Cloud%20Infrastructure-F80000?style=for-the-badge)
 
 I'm a Brazilian high school student passionate about Computer Science and software development.
 
